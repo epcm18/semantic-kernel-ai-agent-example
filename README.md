@@ -1,5 +1,7 @@
 # Building a RAG and Tool-Using AI Agent with Semantic Kernel
 
+![Demo of the Leo Football Agent in action](aiagent2.gif)
+
 This project serves as a practical, real-world example of how to build an intelligent AI agent using Python and Microsoft's Semantic Kernel. The agent, **"Leo,"** is a specialized football assistant on Telegram that demonstrates a complete Retrieval-Augmented Generation (RAG) and Tool Use architecture.
 
 It showcases how to orchestrate AI services, manage a knowledge base with semantic memory, and extend the agent's capabilities with custom plugins.
