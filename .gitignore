@@ -1,0 +1,11 @@
+# .gitignore file
+
+# Environment variables
+.env
+
+# Google OAuth token
+token.json
+
+# Python cache files
+__pycache__/
+*.pyc
